@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Dez Chuang",
+    "label": "Front-End Engineer",
+    "picture": "http://res.cloudinary.com/dezchuang/image/upload/v1493793345/dez_yvzuo2.jpg",
+    "email": "dissaivent@gmail.com",
+    "phone": "",
+    "website": "http://dez.logdown.com/",
+    "summary": "Looking for the job opportunities to work as a Front-End Engineer for a vibrant organization where I can strengthen my expertise and grow to be a Full-Stack Engineer.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Taipei",
+      "countryCode": "",
+      "region": "Taiwan"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dezchuang",
+        "url": "http://www.linkedin.com/in/dezchuang/ "
+      },
+      {
+        "network": "Github",
+        "username": "DezChuang",
+        "url": "http://github.com/DezChuang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Compal Electronics, INC.",
+      "position": "Embedded Software Engineer",
+      "website": "http://www.compal.com/",
+      "startDate": "2015-10-12",
+      "endDate": "",
+      "summary": "Integrated kernel driver to hardware components and brought up kinds of function for more than 10 Industrial PC Android projects on x86 and ARM platforms.",
+      "highlights": [
+        "Implemented interface from Android kernel to framework layer with sysfs and JNI using C/C++ and Java.",
+        "Debugged kernel issues and set up GPIO table or device tree to enable driver functions.",
+        "Developed and implemented Python script tool for testing and kernel log parsing."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "JINZANTOU Culture Council",
+      "position": "Multimedia Designer",
+      "website": "https://azureemo.wixsite.com/hakka-culture-park",
+      "startDate": "2013-06-30",
+      "endDate": "2013-08-31",
+      "summary": "Flash Animation Design",
+      "highlights": [
+        "Innovated original Flash animation within HTML webpage.",
+        "Designed a Flash game for Jinzantou Culture Council to promote parent-child interaction."
+      ]
+    },
+    {
+      "organization": "China Youth Corps.",
+      "position": "College Students'​ Circuit Choral Team",
+      "website": "http://www.cyc.org.tw/",
+      "startDate": "2011-11-01",
+      "endDate": "2012-02-01",
+      "summary": "",
+      "highlights": [
+        "College Students' Circuit Choral Team 53rd camp and perform at Taipei Da-An Sports Center."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Chiao Tung University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "area": "Web Development",
+      "studyType": "Self-Learning",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "The Web Developer Bootcamp",
+        "Build Responsive Real World Websites with HTML5 and CSS3",
+        "React From The Ground Up",
+        "Modern React with Redux"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript/ES6",
+        "jQuery",
+        "React",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Proficient",
+      "keywords": [
+        "NodeJS",
+        "Express",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Developing Tools",
+      "level": "Familiar",
+      "keywords": [
+        "Git",
+        "Linux",
+        "Sublime",
+        ""
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Familiar",
+      "keywords": [
+        "C/C++",
+        "Java",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Taiwanese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Conversant"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web-Dev",
+      "keywords": [
+        "SPA",
+        "SEO",
+        "Ajax",
+        "Optimization",
+        "Blogger"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Body Building",
+        "Jogging"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+        "Folk",
+        "POP",
+        "EDM"
+      ]
+    },
+    {
+      "name": "Game",
+      "keywords": [
+        "MOBA",
+        "Board Game"
+      ]
+    }
+  ],
+  "references": []
+}
